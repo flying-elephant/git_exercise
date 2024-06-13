@@ -6,6 +6,7 @@ int main(void)
 	b = 2;
 	
 	printf("Git ccommand training: %d and %d\n", a, b);
+	printf("Git rebase test\n");
 	
 	return 0;
 }
